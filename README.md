@@ -7,7 +7,7 @@
 
 > RC4 was designed by Ron Rivest of RSA Security in 1987. While it is officially termed "Rivest Cipher 4", the RC acronym is alternatively understood to stand for "Ron's Code"
 
-[RC4 - Crypto Wiki | Fandom](https://cryptography.fandom.com/wiki/RC4)
+[RC4 - Crypto Wiki - Fandom](https://cryptography.fandom.com/wiki/RC4)
 
 > It is a variable key-size stream cipher with byte-oriented operations. It uses either 64 bit or 128-bit key sizes. It is generally used in applications such as Secure Socket Layer (SSL), Transport Layer Security (TLS), and also used in IEEE 802.11 wireless LAN std.
 
